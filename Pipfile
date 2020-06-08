@@ -14,6 +14,7 @@ psycopg2 = "*"
 psycopg2-binary = "*"
 djangorestframework-simplejwt = "*"
 dotenv = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.8.2"
