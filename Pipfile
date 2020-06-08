@@ -15,6 +15,8 @@ psycopg2-binary = "*"
 djangorestframework-simplejwt = "*"
 dotenv = "*"
 dj-database-url = "*"
+django-extensions = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.8.2"
