@@ -1,1 +1,1 @@
-web: gunicorn realisticestate.wsgi
+web: gunicorn realisticestate.wsgi --log file
