@@ -89,15 +89,6 @@ slug: "Home-2"
 ]
 }
 ```
-### Doctors
-![Doctors](project-planning/Doctors.png)
-
-### Reviews
-![Reviews](project-planning/Reviews.png)
-
-## ZooDoc Req-Res Cycle
-![Req-Res Cycle](project-planning/Djangobackend.png)
-
 
 ## Technologies and Frameworks Used
 
