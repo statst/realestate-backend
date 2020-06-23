@@ -11,7 +11,7 @@ Backend is deployed on AWS EC2 with RDS instance and frontend is deployed on AWS
 - Frontend - [Realistic Estate Frontend](http://realisticesates.com.s3-website-us-east-1.amazonaws.com/)
 - Backend - [Realistic Estate Backend](http://ec2-18-222-61-213.us-east-2.compute.amazonaws.com/api/listestates/?format=json)
 
-# Request-Response Cycle and routes
+# Request-Response Cycle 
 
 ![](Images/Snip20200623_2.png)
 
