@@ -13,7 +13,7 @@ Backend is deployed on AWS EC2 with RDS instance and frontend is deployed on AWS
 
 # Request-Response Cycle and routes
 
-![](Images/Snip20200623_1.png)
+![](Images/Snip20200623_2.png)
 
 ## User Stories
 
@@ -23,7 +23,7 @@ Backend is deployed on AWS EC2 with RDS instance and frontend is deployed on AWS
 - _As a user, I want to be able to contact agents of the property._
 - _As a user, I want to be able to contact agents of the property._
 
-_**Post Stretch Goal**_
+_**Post MVP Stretch Goal**_
 
 - _As a user, I would like to see neighbourhood details on google map when i choose a particular house._
 
@@ -108,7 +108,7 @@ Install the Realestate Backend:
 3. Activate virtual environment using pipenv shell command
 4. Install dependencies such as Django, Django-Rest-Framework and JWT-Authentication using pipenv install
 5. Run python3 manage.py runserver, it will start a local version of the backend on port 8000.
-3. Submit any issues
+
 
 ```
 
