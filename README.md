@@ -8,7 +8,7 @@ Link to deployed app: [Realistic Estate](http://realisticesates.com.s3-website-u
 
 # Request-Response Cycle and routes
 
-![](Images/Snip20200623_1.png)
+![](Images/Snip20200623_2.png)
 
 ## User Stories
 
@@ -18,7 +18,7 @@ Link to deployed app: [Realistic Estate](http://realisticesates.com.s3-website-u
 - _As a user, I want to be able to contact agents of the property._
 - _As a user, I want to be able to contact agents of the property._
 
-_**Post Stretch Goal**_
+_**Post MVP Stretch Goal**_
 
 - _As a user, I would like to see neighbourhood details on google map when i choose a particular house._
 
@@ -89,15 +89,6 @@ slug: "Home-2"
 ]
 }
 ```
-### Doctors
-![Doctors](project-planning/Doctors.png)
-
-### Reviews
-![Reviews](project-planning/Reviews.png)
-
-## ZooDoc Req-Res Cycle
-![Req-Res Cycle](project-planning/Djangobackend.png)
-
 
 ## Technologies and Frameworks Used
 
@@ -112,7 +103,7 @@ Install the Realestate Backend:
 3. Activate virtual environment using pipenv shell command
 4. Install dependencies such as Django, Django-Rest-Framework and JWT-Authentication using pipenv install
 5. Run python3 manage.py runserver, it will start a local version of the backend on port 8000.
-3. Submit any issues
+
 
 ```
 
