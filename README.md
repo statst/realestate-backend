@@ -4,7 +4,12 @@
 
  RealisticEstates is an application designed for users to find home. Users can search homes on the website, check the description of the property and schedule an appointment with an agent.
 
-Link to deployed app: [Realistic Estate](http://realisticesates.com.s3-website-us-east-1.amazonaws.com/)
+#Deployed app
+
+Backend is deployed on AWS EC2 with RDS instance and frontend is deployed on AWS S3.
+
+- Frontend - [Realistic Estate Frontend](http://realisticesates.com.s3-website-us-east-1.amazonaws.com/)
+- Backend - [Realistic Estate Backend](http://ec2-18-222-61-213.us-east-2.compute.amazonaws.com/api/listestates/?format=json)
 
 # Request-Response Cycle and routes
 
